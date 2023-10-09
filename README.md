@@ -6,6 +6,7 @@ Load testing example using k6.
 
 1. Make sure to install k6 [here](https://k6.io/docs/get-started/installation/).
 2. The sample API that is used for this example is [JSON Placeholder API](https://jsonplaceholder.typicode.com/guide/).
+3. Some tests are generated using ChatGPT.
 
 ## How to Use
 
